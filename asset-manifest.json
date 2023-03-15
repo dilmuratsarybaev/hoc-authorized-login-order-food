@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hoc-authorized-login-order-food/static/css/main.971ec77e.css",
+    "main.js": "/hoc-authorized-login-order-food/static/js/main.72c49651.js",
+    "static/media/pexels-alexy-almond-3756523 1.jpg": "/hoc-authorized-login-order-food/static/media/pexels-alexy-almond-3756523 1.12a2d3a26186a7ffd2b5.jpg",
+    "static/media/Vector.svg": "/hoc-authorized-login-order-food/static/media/Vector.569f7d6b6e9520fb1d1b3c77ebb21b5e.svg",
+    "index.html": "/hoc-authorized-login-order-food/index.html",
+    "static/media/Vector3.svg": "/hoc-authorized-login-order-food/static/media/Vector3.f6449d6005345c09378ddf02e862b973.svg",
+    "main.971ec77e.css.map": "/hoc-authorized-login-order-food/static/css/main.971ec77e.css.map",
+    "main.72c49651.js.map": "/hoc-authorized-login-order-food/static/js/main.72c49651.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.971ec77e.css",
+    "static/js/main.72c49651.js"
+  ]
+}
